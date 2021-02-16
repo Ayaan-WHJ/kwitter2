@@ -1,0 +1,115 @@
+html, body
+{
+	background-image: url("https://i.pinimg.com/originals/71/92/5c/71925c75936297af1e041e98cebfdfe6.jpg");
+  margin: 0;
+ 
+color: rgb(255, 255, 255);
+   
+}
+h1
+{
+	color: rgb(255, 255, 255);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+    
+.logo
+{
+	width: 100px;margin-top: 30px;border-radius: 0px;
+	height: 100px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+.login_div{
+	background-color: transparent;
+}
+.body_background{
+	background-image: url("https://motionarray.imgix.net/preview-271702-j7MCCckCvg-high_0002.jpg");
+	background-repeat:repeat-y;
+	background-repeat: repeat-x;
+  color: black;
+}
+#chatter{
+color: rgb(0, 0, 0);
+}
+#room_name{
+	background: rgb(0,42,255);
+background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(243,0,255,1) 13%, rgba(255,183,0,1) 25%, rgba(250,255,0,1) 37%, rgba(255,0,0,1) 50%, rgba(0,255,252,1) 63%, rgba(0,255,67,1) 75%, rgba(0,14,255,1) 88%, rgba(0,0,0,1) 100%);
+	color: rgb(255, 255, 255);
+}
+#user_name{
+	background: rgb(0,42,255);
+background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(243,0,255,1) 13%, rgba(255,183,0,1) 25%, rgba(250,255,0,1) 37%, rgba(255,0,0,1) 50%, rgba(0,255,252,1) 63%, rgba(0,255,67,1) 75%, rgba(0,14,255,1) 88%, rgba(0,0,0,1) 100%);
+	color: rgb(255, 255, 255);
+	width: 100%;
+}
